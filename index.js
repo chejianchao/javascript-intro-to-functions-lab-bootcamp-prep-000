@@ -1,3 +1,3 @@
 function shout(str){
-  console.log(str)
+  return str.upper()
 }

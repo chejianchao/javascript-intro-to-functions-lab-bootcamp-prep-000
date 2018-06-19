@@ -14,7 +14,7 @@ function logWhisper(str){
   console.log(whisper(str))
 }
 
-function sayHitoGrandma(str){
+function sayHiToGrandma(str){
   if( str == shout(str))
     return "YES INDEED!"
   else if( str == "Ilove you, Grandma.")
